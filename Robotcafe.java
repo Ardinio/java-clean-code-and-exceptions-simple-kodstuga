@@ -2,6 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Robotcafe {
+    
     static String[] products = {"Kaffe", "Te", "Bulle", "Energidryck"};
 
     public static void main(String[] args) {
